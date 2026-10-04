@@ -28,7 +28,9 @@ A high school student at IFRN.
 </div>
 
 ## 📫 Contact Me
-[LinkedIn](https://www.linkedin.com/in/thiago-freitas-costa-2b6a833a3/)  
+[LinkedIn](https://www.linkedin.com/in/thiago-freitas-costa-2b6a833a3/)
+freitas.costa@escolar.ifrn.edu.br
+thifre09@gmail.com
 
 ## 📈 GitHub Stats
 <div align="center">
